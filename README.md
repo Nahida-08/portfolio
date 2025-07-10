@@ -21,3 +21,7 @@ This is a personal portfolio website created using HTML and CSS. It presents an 
 This project was built as a front-end practice portfolio to showcase basic web development skills and layout design, inspired by the Angela Yu personal site concept.
 
 
+##output:
+<img width="1920" height="1020" alt="Screenshot 2025-07-11 001243" src="https://github.com/user-attachments/assets/720dd2d5-410c-46dd-a7e6-302dd86e36da" />
+
+
