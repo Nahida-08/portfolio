@@ -25,3 +25,11 @@ This project was built as a front-end practice portfolio to showcase basic web d
 <img width="1920" height="1020" alt="Screenshot 2025-07-11 001243" src="https://github.com/user-attachments/assets/720dd2d5-410c-46dd-a7e6-302dd86e36da" />
 
 
+<img width="1920" height="1020" alt="Screenshot 2025-07-11 001310" src="https://github.com/user-attachments/assets/ac911772-2421-4151-8756-d6ace672179f" />
+
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-11 001404" src="https://github.com/user-attachments/assets/d9dd77ef-d936-47ae-82d2-c207edaa7db8" />
+
+
+
+
